@@ -1,3 +1,23 @@
+// Hello World Funtion
+funtion greet (firstName, lastName){
+  console.log("Hello" + fistName + "world" + lastName)
+}
+
+funtion Square(number) {
+return number*number;
+}
+
+
+
+
+
+
+
+
+let firstName =["firstName", "lastName"
+
+
+// your Funtion Goes here
 let firstName = "Maryam"
 let LasName = "Ali Mohamud"
 
@@ -7,6 +27,7 @@ let memory = firstName;
 firstName = lastName;
 lastName = memory;
 
-// Print variables toconsole
-console.log("My first name is: " + firstname);
-console.log("My last name is: " + lastName )
+// Calling function, with arguments
+greet (fistName[0],firstName[1]);
+greet(firstName[0], firstName[1]);
+greet(square(firstName[2, firstName[2]);

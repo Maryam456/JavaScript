@@ -1,9 +1,14 @@
 console.log("Hello World");
 
 //create 10 variables about yourself
-let MaryamAliMohamud = {
+let MaryamAliMohamud =[];
+
+// firstName, Lastname, age, ageAfriad, hair, female
+MaryamAliMohamud = ["AliMohamud", 15]
+
+{
  lastName: "Ali Mohamud",
- haircolour: "Dark Brown",
+ haircolour: "darkbrown",
  horoscope: "Libra",
  ageAfraid:  15,
   birthdate: "October 6 2002",
@@ -14,9 +19,8 @@ let lastname="Ali Mohamud";
 let haircolour= "Dark Brown";
 let horoscope= "Libra";
 let age= "15";
-const ageAfraid = 15; //security feature
 let birthdate= "October 6 2002";
-let favourite book= null; //undefined, null; originally "none"
+let favouritebook= null; //undefined, null; originally "none"
 let Am I female;
 //print variables to console
 console.log(name);
