@@ -1,6 +1,9 @@
-// Hello World Funtion
-funtion greet (firstName, lastName){
-  console.log("Hello" + fistName + "world" + lastName)
+console.log("Using array-data-structure, write a function");
+function rewriteLastNameAliMoamud(lastName,lastName2){
+
+}
+function rewriteLastNameSpence(lastName1, lastName){
+  return MaryamAliMohamud 
 }
 
 funtion Square(number) {
